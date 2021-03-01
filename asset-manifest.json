@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/vumar/Top-5-Movies.git/static/css/main.0d9b5278.chunk.css",
+    "main.js": "/vumar/Top-5-Movies.git/static/js/main.7ac41ef3.chunk.js",
+    "main.js.map": "/vumar/Top-5-Movies.git/static/js/main.7ac41ef3.chunk.js.map",
+    "runtime-main.js": "/vumar/Top-5-Movies.git/static/js/runtime-main.48733dc0.js",
+    "runtime-main.js.map": "/vumar/Top-5-Movies.git/static/js/runtime-main.48733dc0.js.map",
+    "static/js/2.ce6b6ccd.chunk.js": "/vumar/Top-5-Movies.git/static/js/2.ce6b6ccd.chunk.js",
+    "static/js/2.ce6b6ccd.chunk.js.map": "/vumar/Top-5-Movies.git/static/js/2.ce6b6ccd.chunk.js.map",
+    "index.html": "/vumar/Top-5-Movies.git/index.html",
+    "static/css/main.0d9b5278.chunk.css.map": "/vumar/Top-5-Movies.git/static/css/main.0d9b5278.chunk.css.map",
+    "static/js/2.ce6b6ccd.chunk.js.LICENSE.txt": "/vumar/Top-5-Movies.git/static/js/2.ce6b6ccd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48733dc0.js",
+    "static/js/2.ce6b6ccd.chunk.js",
+    "static/css/main.0d9b5278.chunk.css",
+    "static/js/main.7ac41ef3.chunk.js"
+  ]
+}
